@@ -1,10 +1,18 @@
 # FICHE DE PRÉSENTATION
 # Devenirs partagés. Pratiques de l'IA	
-![Affiche de l'exposition](Galerie_UdeM/media/affiche_exposition.jpg)
-Lieu de mise en exposition	Vous devant l'entrée de l'édifice	
-Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)		
-Date de votre visite		
-Titre de l'oeuvre ou du dispositif	Vue d'ensemble de l'oeuvre ou du dispositif	
+![Affiche de l'exposition](./media/affiche_exposition.jpg)
+## Lieu de l'exposition
+Centre d'exposition (Galerie) de l'Université de Montréal
+
+## Type d'exposition
+temporaire et à l'intérieur
+
+## Date de la visite		
+30 janvier 2026
+
+## Oeuvbre observée: Techno-Compost 01 et 02
+![Vue d'ensemble de l'oeuvre](./media/apercu_general_oeuvre.jpg)
+
 Nom de l'artiste ou de la firme		Pour le nom de la firme, voir le panneau de crédits de l'exposition
 Année de réalisation		
 Description de l'oeuvre ou du dispositif	Cartel (pour une oeuvre) ou Texte explicatif (pour un dispositif) + diverses vues	À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en indiquant bien sa source
