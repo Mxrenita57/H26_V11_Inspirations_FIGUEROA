@@ -1,5 +1,5 @@
-h1 FICHE DE PRÉSENTATION
-h1 Devenirs partagés. Pratiques de l'IA	
+# FICHE DE PRÉSENTATION
+# Devenirs partagés. Pratiques de l'IA	
 ![Affiche de l'exposition](Galerie_UdeM/media/affiche_exposition.jpg)
 Lieu de mise en exposition	Vous devant l'entrée de l'édifice	
 Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)		
