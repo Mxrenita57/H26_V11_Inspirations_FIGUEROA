@@ -13,16 +13,27 @@ temporaire et à l'intérieur
 ## Oeuvbre observée: Techno-Compost 01 et 02
 ![Vue d'ensemble de l'oeuvre](./media/apercu_general_oeuvre.jpg)
 
-Nom de l'artiste ou de la firme		Pour le nom de la firme, voir le panneau de crédits de l'exposition
-Année de réalisation		
-Description de l'oeuvre ou du dispositif	Cartel (pour une oeuvre) ou Texte explicatif (pour un dispositif) + diverses vues	À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en indiquant bien sa source
-Type d'installation (contemplative, immersive, interactive)	Vue descriptive - vidéo OU photo qui nous permet de bien comprendre le type d'installation	---
-Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)	Vue descriptive - vidéo OU photo qui nous permet de bien comprendre la fonction du dispositif multimédia	
-Mise en espace	Croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec légende et dimensions)	Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?
+## Artiste
+Marie-Ève Levasseur
+
+## Année de réalisation		
+2025 (?)
+
+## Description de l'oeuvre 
+Les outils de l'IA générative produisent à un rythme effréné des milliers d'images, dont la plupart deviennent des déchets numériques, traces d'une énergie excédentaire. C'est à partir de ce constat que Marue-Ève Levasseur a imaginé une spéculation en réalité virtuelle où prend forme le techno-compost. Après avoir expérimenté différents modèles d'IA, l'artiste conçoit ce cycle dans lequel les images-détritus se fragmentent et se dissolvent pour mieux se régénérer en d'autres formes, nourries par la matière numérique désintégrée à l'état de bruit visuel aléatoire, comparable à la neige statique d'un écran télé. Puis, ce lieu invisible où les apprentissages du modèle se condensent avant d'émerger en nouvelles formes, qu'on appelle l'espace latent des modèles d'IA, vient agir véritablement tel un jardin. Dans ce terreau, les images et leurs particules se (re)composent et la prolifération se mue en un rythme plus organique. L'artiste invite ainsi à s'immerger dans cette dynamique symbiotique, esquissant les possibles d'un univers numérique plus lent, attentif et fertile que productif.
+
+
+## Type d'installation 
+![Vue descriptive installation](./media/impression_sur_papier.jpg)
+![Vue descriptive installation](./media/projection_sur_mur.jpg)
+> Installation immersive de réalité virtuelle et installation contemplative
+
 Composantes et techniques	Parties composantes de l'oeuvre ou du dispositif (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des composantes et techniques utilisées (ce que l'artiste ou la firme a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)
 Éléments nécessaires à la mise en exposition	Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre ou le dispositif soit exposé (socle, caisson, bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs, éléments de signalisation...)
 Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou du dispositif ou l'interactivité avec l'oeuvre ou le dispositif	Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment réagit l'oeuvre ou le dispositif (si interactivité)? Plus personnellement, description de l'expérience que l'oeuvre ou le dispositif vous a fait vivre.
+
 ❤️ Ce qui vous a plu, vous a donné des idées	Éléments pertinents	Texte à rédiger qui présente un ou des aspects inspirants, avec justifications détaillées (pourquoi est-ce que cela vous a plus/ vous a donné des idées ?
+
 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement	Éléments pertinents	Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec justifications détaillées (pourquoi? comment?)
 Références		identifier l'auteur.e des images et photos, inclure les hyperliens vers les sites consultés
 
