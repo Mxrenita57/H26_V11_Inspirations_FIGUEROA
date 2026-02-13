@@ -30,10 +30,16 @@ Les outils de l'IA générative produisent à un rythme effréné des milliers d
 
 ## Mise en espace
 ![Croquis espace](./media/croquis.png)
+L'oeuvre a été placée dans le coin droit de la pièce, elle occupe des segments des deux murs qui forment ce coin. L'impression sur papier est affichée sur le mur du côté droit, alors que la projection est affichée sur le mur au fond, donc en face de l'entrée de la gallerie (On peut l'observer immédiatement en entrant dans la pièece). Finalement, les chaises ainsi que les casques de RV sont situés entre ces deux murs.
 
 
 
-Composantes et techniques	Parties composantes de l'oeuvre ou du dispositif (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des composantes et techniques utilisées (ce que l'artiste ou la firme a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)
+## Composantes et techniques
+- Deux chaises avec une impression numérique sur le tissu
+- Deux casques de RV
+- Impression numérique sur papier démontrant les échantillons d'entraînement d'un modèle inconditionnel de diffusion
+  
+## Éléments nécessaires à la mise en exposition
 Éléments nécessaires à la mise en exposition	Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre ou le dispositif soit exposé (socle, caisson, bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs, éléments de signalisation...)
 Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou du dispositif ou l'interactivité avec l'oeuvre ou le dispositif	Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment réagit l'oeuvre ou le dispositif (si interactivité)? Plus personnellement, description de l'expérience que l'oeuvre ou le dispositif vous a fait vivre.
 
