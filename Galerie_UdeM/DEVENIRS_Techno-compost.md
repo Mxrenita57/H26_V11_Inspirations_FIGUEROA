@@ -38,6 +38,9 @@ L'oeuvre a été placée dans le coin droit de la pièce, elle occupe des segmen
 - Deux chaises avec une impression numérique sur le tissu
 - Deux casques de RV
 - Impression numérique sur papier démontrant les échantillons d'entraînement d'un modèle inconditionnel de diffusion
+![Chaise](./media/gros_plan_chaise_tissu.jpg)
+![Impression dur papier](./media/gros_plan_impression_sur_papier.jpg)
+![Casque VR](./media/casque_vr.jpg)
   
 ## Éléments nécessaires à la mise en exposition
 Éléments nécessaires à la mise en exposition	Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre ou le dispositif soit exposé (socle, caisson, bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs, éléments de signalisation...)
