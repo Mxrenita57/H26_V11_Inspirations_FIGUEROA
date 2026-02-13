@@ -29,6 +29,8 @@ Les outils de l'IA générative produisent à un rythme effréné des milliers d
 > Installation immersive de réalité virtuelle et installation contemplative
 
 ## Mise en espace
+![Croquis espace](./media/croquis.png)
+
 
 
 Composantes et techniques	Parties composantes de l'oeuvre ou du dispositif (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des composantes et techniques utilisées (ce que l'artiste ou la firme a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)
