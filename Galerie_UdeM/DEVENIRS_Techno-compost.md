@@ -17,7 +17,7 @@ temporaire et à l'intérieur
 Marie-Ève Levasseur
 
 ## Année de réalisation		
-2025 (?)
+2025
 
 ## Description de l'oeuvre 
 Les outils de l'IA générative produisent à un rythme effréné des milliers d'images, dont la plupart deviennent des déchets numériques, traces d'une énergie excédentaire. C'est à partir de ce constat que Marue-Ève Levasseur a imaginé une spéculation en réalité virtuelle où prend forme le techno-compost. Après avoir expérimenté différents modèles d'IA, l'artiste conçoit ce cycle dans lequel les images-détritus se fragmentent et se dissolvent pour mieux se régénérer en d'autres formes, nourries par la matière numérique désintégrée à l'état de bruit visuel aléatoire, comparable à la neige statique d'un écran télé. Puis, ce lieu invisible où les apprentissages du modèle se condensent avant d'émerger en nouvelles formes, qu'on appelle l'espace latent des modèles d'IA, vient agir véritablement tel un jardin. Dans ce terreau, les images et leurs particules se (re)composent et la prolifération se mue en un rythme plus organique. L'artiste invite ainsi à s'immerger dans cette dynamique symbiotique, esquissant les possibles d'un univers numérique plus lent, attentif et fertile que productif.
@@ -27,6 +27,9 @@ Les outils de l'IA générative produisent à un rythme effréné des milliers d
 ![Vue descriptive installation](./media/impression_sur_papier.jpg)
 ![Vue descriptive installation](./media/projection_sur_mur.jpg)
 > Installation immersive de réalité virtuelle et installation contemplative
+
+## Mise en espace
+
 
 Composantes et techniques	Parties composantes de l'oeuvre ou du dispositif (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des composantes et techniques utilisées (ce que l'artiste ou la firme a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)
 Éléments nécessaires à la mise en exposition	Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)	Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre ou le dispositif soit exposé (socle, caisson, bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs, éléments de signalisation...)
