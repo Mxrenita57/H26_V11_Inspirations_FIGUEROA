@@ -28,7 +28,7 @@ Marie-Ève Levasseur
 
 
 ## Description de l'oeuvre 
-Les outils de l'IA générative produisent à un rythme effréné des milliers d'images, dont la plupart deviennent des déchets numériques, traces d'une énergie excédentaire. C'est à partir de ce constat que Marue-Ève Levasseur a imaginé une spéculation en réalité virtuelle où prend forme le techno-compost. Après avoir expérimenté différents modèles d'IA, l'artiste conçoit ce cycle dans lequel les images-détritus se fragmentent et se dissolvent pour mieux se régénérer en d'autres formes, nourries par la matière numérique désintégrée à l'état de bruit visuel aléatoire, comparable à la neige statique d'un écran télé. Puis, ce lieu invisible où les apprentissages du modèle se condensent avant d'émerger en nouvelles formes, qu'on appelle l'espace latent des modèles d'IA, vient agir véritablement tel un jardin. Dans ce terreau, les images et leurs particules se (re)composent et la prolifération se mue en un rythme plus organique. L'artiste invite ainsi à s'immerger dans cette dynamique symbiotique, esquissant les possibles d'un univers numérique plus lent, attentif et fertile que productif.
+Les outils de l'IA générative produisent à un rythme effréné des milliers d'images, dont la plupart deviennent des déchets numériques, traces d'une énergie excédentaire. C'est à partir de ce constat que Marie-Ève Levasseur a imaginé une spéculation en réalité virtuelle où prend forme le techno-compost. Après avoir expérimenté différents modèles d'IA, l'artiste conçoit ce cycle dans lequel les images-détritus se fragmentent et se dissolvent pour mieux se régénérer en d'autres formes, nourries par la matière numérique désintégrée à l'état de bruit visuel aléatoire, comparable à la neige statique d'un écran télé. Puis, ce lieu invisible où les apprentissages du modèle se condensent avant d'émerger en nouvelles formes, qu'on appelle l'espace latent des modèles d'IA, vient agir véritablement tel un jardin. Dans ce terreau, les images et leurs particules se (re)composent et la prolifération se mue en un rythme plus organique. L'artiste invite ainsi à s'immerger dans cette dynamique symbiotique, esquissant les possibles d'un univers numérique plus lent, attentif et fertile que productif.
 
 
 ## Type d'installation
@@ -94,5 +94,4 @@ Mettre en exposition deux oeuvres de même nature de façon différente. J'ai ap
 
 
 ## Ce qui ne m'a pas plu
-Références		identifier l'auteur.e des images et photos, inclure les hyperliens vers les sites consultés
 Dans l'aspect de sécurité, j'aurais mieux organisé les cables qui étaient éparpillés et un peu entremêlés par terre, car elles passent par le chemin utilisé pour se déplacer dans l'exposition et pourraient engendrer des accidents si quelqu'un trébuche sur les fils, par exemple. En plus, leur présence assez visible n'est pas nécéssairement attrayante, donc j'aurais utilisé des chache-fil pour mieux organiser l'espace et ne pas donner trop d'attention aux cables.
