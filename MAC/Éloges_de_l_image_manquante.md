@@ -14,24 +14,24 @@ temporaire et à l'intérieur
 22 février 2026
 
 
-## Oeuvbre observée: Being There [Être là]
+## Oeuvbre observée: Bêtise humaine
 ![Vue d'ensemble de l'oeuvre](./media/)
 > Photo prise par Sophia F.
 
 
 ## Artiste
-Lee Shulman et Omar Victor Diop (The Anonymous Project)
+Joyce Joumaa
 
 
 ## Année de réalisation		
-2023
+2025
 
 
 ## Description de l'oeuvre 
-*The Anonymous Project* présente des photographies des années 1950-1960 trouvées dans des bazars ou sur le Web qui illustrent des moments du quotidien, tels que des fêtes, des vacances ou des sorties en famille ou avec des amis. Un détail en particulier est visible dans ces images: tous les individus ont la peau blanche. Il faut savoir qu'à l'époque où ces images en été prises, la ségrégation raciale était encore bien présente aux États-Unis, et donc les personnes Noires étaient souvent isolées du reste à cause de la couleur de leur peau. L'artiste Lee Shulman a donc invité Omar à s'intégrer dans les photographies comme s'il en avait toujours fait partie. Cette action interroge l'absence de diversité culturelle dans ces souvenirs, et en intégrant un personnage de couleur de peau foncée dans le cadre, Shulman et Diop cherchent à combler cette absence. Leur but est de mélanger le passé avec le présent, mais ils souhaitent aussi montrer avec humour que les images peuvent influencer notre mémoire et notre perception de la réalité.
+L'oeuvre est un court film mettant en scène des images du match de soccer en 2001 entre la France et l'Algérie, en juxtaposition avec des scènes du film *La bataille d'Alger* (1966). Cette oeuvre met en lumière <<les échos entre l’histoire coloniale et les tensions contemporaines et [révèle] l’instrumentalisation du sport comme outil diplomatique et politique>> (momentabiennale.com). L'installation ressemble à un terrain de soccer avec des estrades pour s'assoir et un sol en gazon synthétique. Avec cette oeuvre, Joyce Joumaa montre que les histoires du passé ont encore des effets aujourd'hui.
 
 ## Type d'installation
-Installation contemplative.
+Installation contemplative et immersive
 
 ![Vue descriptive installation](./media/)
 > Photo prise par Sophia F.
@@ -45,37 +45,27 @@ Installation contemplative.
 ![Croquis espace](./media/croquis.png)
 > Dessin par Sophia F.
 
-L'oeuvre a été placée dans le coin droit de la pièce, elle occupe des segments des deux murs qui forment ce coin. L'impression sur papier est affichée sur le mur du côté droit, alors que la projection est affichée sur le mur au fond, donc en face de l'entrée de la gallerie (On peut l'observer immédiatement en entrant dans la pièece). Finalement, les chaises ainsi que les casques de RV sont situés entre ces deux murs.
+L'oeuvre est placée juste à gauche de l'entrée de l'exposition complète. Lorsqu'on tourne à gauche, on voit d'abord un mur qui cache la majorité de l'oeuvre, il faut passer soit par la gauche, soit par la droite de ce mur pour se diriger vers l'oeuvre. On voit alors un segment de terrain synthétique avec de grandes estrades en alluminium au centre. Au fond et accoté sur le mur se trouve un grand écran où joue la vidéo mettant en scène un match de soccer. La pièce est ouverte et plongée dans le noir: La seule source de lumière présente est celle du film.
 
 
 
 ## Composantes et techniques
-- Deux chaises avec une impression numérique sur le tissu
-- Deux casques de RV
-- Impression numérique sur papier démontrant les échantillons d'entraînement d'un modèle inconditionnel de diffusion
+- Gazon articifiel
+- Estrades en aluminium soudé
+- Installation vidéo à canal unique
   
 ![Chaise](./media/gros_plan_chaise_tissu.jpg)
 > Photo prise par Sophia F.
 
-![Impression dur papier](./media/gros_plan_impression_sur_papier.jpg)
-> Photo prise par Sophia F.
-
-![Casque VR](./media/casque_vr.jpg)
-> Photo de www.futura-sciences.com
-
   
 ## Éléments nécessaires à la mise en exposition
 - Projecteur
-- Plafonnier avec des ampoules de type ''spot''
+- Haut-parleurs
 - Cables à haut-parleur
-- Transducteur
-- Ordinateur
-- Modem
+- Grand écran
+- Canal unique
 
 ![Plafond](./media/installation_plafond.jpg)
-> Photo prise par Sophia F.
-
-![Modem et cables](./media/modem_cables.jpg)
 > Photo prise par Sophia F.
   
 
@@ -84,7 +74,7 @@ L'oeuvre a été placée dans le coin droit de la pièce, elle occupe des segmen
 ![posture](./media/posture.jpg)
 > Photo prise par Sophia F.
 
-Pour bien observer les oeuvres sur les murs, il faut se déplacer autour des chaises. Pour l'expérience immersive, il suffit de s'assoir sur une des chaises et de poser le casque RV sur la tête. On voit alors un monde virtuel qui correspond à l'espace latent. On peut également placer les mains devant les capteurs du casque RV pour intéragir ensuite avec les images de l'expérience; on peut les toucher, les pincer pour les bouger de place, etc. On rentre ainsi dans un monde coloré et abstrait qui ressemble à un jardin.
+Dès que j'ai posé le pied sur le terrain de gazon synthétique, je me suis tout de suite sentie transportée dans un univers de soccer. En m'assoyant sur les estrades, je me suis cru en train d'assister à un vrai match de soccer. 
 
 
 
