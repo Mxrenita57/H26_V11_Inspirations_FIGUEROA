@@ -1,43 +1,42 @@
 # FICHE DE PRÉSENTATION
 # Éloges de l'image manquante
-![Affiche de l'exposition](./media/affiche_exposition.jpg)
-> Photo prise par Sophia F.
+![Affiche de l'exposition](./media/vernissage_exposition.webp)
+> [Affiche prise sur Facebook](https://www.facebook.com/events/1469117820907519/)
 
 ## Lieu de l'exposition
-Centre d'exposition (Galerie) de l'Université de Montréal
+MAC Musée d'art contemporain à Place Ville-Marie, Montréal
 
 ## Type d'exposition
 temporaire et à l'intérieur
 
 
 ## Date de la visite		
-30 janvier 2026
+22 février 2026
 
 
-## Oeuvbre observée: Techno-Compost 01 et 02
-![Vue d'ensemble de l'oeuvre](./media/apercu_general_oeuvre.jpg)
+## Oeuvbre observée: Being There [Être là]
+![Vue d'ensemble de l'oeuvre](./media/)
 > Photo prise par Sophia F.
 
 
 ## Artiste
-Marie-Ève Levasseur
+Lee Shulman et Omar Victor Diop (The Anonymous Project)
 
 
 ## Année de réalisation		
-2025
+2023
 
 
 ## Description de l'oeuvre 
-Les outils de l'IA générative produisent à un rythme effréné des milliers d'images, dont la plupart deviennent des déchets numériques, traces d'une énergie excédentaire. C'est à partir de ce constat que Marie-Ève Levasseur a imaginé une spéculation en réalité virtuelle où prend forme le techno-compost. Après avoir expérimenté différents modèles d'IA, l'artiste conçoit ce cycle dans lequel les images-détritus se fragmentent et se dissolvent pour mieux se régénérer en d'autres formes, nourries par la matière numérique désintégrée à l'état de bruit visuel aléatoire, comparable à la neige statique d'un écran télé. Puis, ce lieu invisible où les apprentissages du modèle se condensent avant d'émerger en nouvelles formes, qu'on appelle l'espace latent des modèles d'IA, vient agir véritablement tel un jardin. Dans ce terreau, les images et leurs particules se (re)composent et la prolifération se mue en un rythme plus organique. L'artiste invite ainsi à s'immerger dans cette dynamique symbiotique, esquissant les possibles d'un univers numérique plus lent, attentif et fertile que productif.
-
+*The Anonymous Project* présente des photographies des années 1950-1960 trouvées dans des bazars ou sur le Web qui illustrent des moments du quotidien, tels que des fêtes, des vacances ou des sorties en famille ou avec des amis. Un détail en particulier est visible dans ces images: tous les individus ont la peau blanche. Il faut savoir qu'à l'époque où ces images en été prises, la ségrégation raciale était encore bien présente aux États-Unis, et donc les personnes Noires étaient souvent isolées du reste à cause de la couleur de leur peau. L'artiste Lee Shulman a donc invité Omar à s'intégrer dans les photographies comme s'il en avait toujours fait partie. Cette action interroge l'absence de diversité culturelle dans ces souvenirs, et en intégrant un personnage de couleur de peau foncée dans le cadre, Shulman et Diop cherchent à combler cette absence. Leur but est de mélanger le passé avec le présent, mais ils souhaitent aussi montrer avec humour que les images peuvent influencer notre mémoire et notre perception de la réalité.
 
 ## Type d'installation
-Installation immersive de réalité virtuelle et installation contemplative.
+Installation contemplative.
 
-![Vue descriptive installation](./media/impression_sur_papier.jpg)
+![Vue descriptive installation](./media/)
 > Photo prise par Sophia F.
 
-![Vue descriptive installation](./media/projection_sur_mur.jpg)
+![Vue descriptive installation](./media/)
 > Photo prise par Sophia F.
 
 
