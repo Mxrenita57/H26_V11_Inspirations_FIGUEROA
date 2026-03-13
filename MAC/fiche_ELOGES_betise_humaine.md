@@ -33,10 +33,10 @@ L'oeuvre est un court film mettant en scène des images du match de soccer en 20
 ## Type d'installation
 Installation contemplative et immersive
 
-![Vue descriptive installation](./media/vue_film)
+![Vue descriptive installation](./media/vue_film.jpg)
 > Photo prise par Sophia F.
 
-![Vue descriptive installation](./media/)
+![Vue descriptive installation](./media/plan_moyen_film_momenta-biennale.jpg)
 > Photo prise par Sophia F.
 
 
