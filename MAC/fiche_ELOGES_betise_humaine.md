@@ -1,6 +1,6 @@
 # FICHE DE PRÉSENTATION
 # Éloges de l'image manquante
-![Affiche de l'exposition](./media/affiche_exposition_mac.webp)
+![Affiche de l'exposition](./media/affiche_exposition_photo_mac.webp)
 > [Affiche de l'exposition prise du compte de MAC sur Facebook](https://www.facebook.com/events/1469117820907519/)
 
 ## Lieu de l'exposition
@@ -33,18 +33,14 @@ L'oeuvre est un court film mettant en scène des images du match de soccer en 20
 ## Type d'installation
 Installation contemplative et immersive
 
-![Vue descriptive installation](./media/vue_film.jpg)
+![Vue descriptive installation](./media/cartel_oeuvre.jpg)
 > Photo prise par Sophia F.
 
-![Vue descriptive installation](./media/plan_moyen_film_momenta-biennale.jpg)
-> Photo prise par Sophia F.
+![Vue descriptive installation](./media/plan_moyen_film_photo_momenta.jpg)
+> Photo prise du site web de Momenta
 
 
 ## Mise en espace
-
-![Croquis espace](./media/croquis.png)
-> Dessin par Sophia F.
-
 L'oeuvre est placée juste à gauche de l'entrée de l'exposition complète. Lorsqu'on tourne à gauche, on voit d'abord un mur qui cache la majorité de l'oeuvre, il faut passer soit par la gauche, soit par la droite de ce mur pour se diriger vers l'oeuvre. On voit alors un segment de terrain synthétique avec de grandes estrades en alluminium au centre. Au fond et accoté sur le mur se trouve un grand écran où joue la vidéo mettant en scène un match de soccer. La pièce est ouverte et plongée dans le noir: La seule source de lumière présente est celle du film.
 
 
@@ -53,8 +49,8 @@ L'oeuvre est placée juste à gauche de l'entrée de l'exposition complète. Lor
 - Gazon articifiel
 - Installation vidéo à canal unique
   
-![Chaise](./media/gros_plan_chaise_tissu.jpg)
-> Photo prise par Sophia F.
+![Gros plan de l'installation vidéo](./media/gros_plan_film_photo_mac.jpg)
+> Photo prise du site web de Momenta
 
   
 ## Éléments nécessaires à la mise en exposition
@@ -64,23 +60,19 @@ L'oeuvre est placée juste à gauche de l'entrée de l'exposition complète. Lor
 - Cables à haut-parleur
 - Cables d'alimentation
 - Surface de projection
-
-![Plafond](./media/installation_plafond.jpg)
-> Photo prise par Sophia F.
   
 
 
 ## Expérience vécue	
-![posture](./media/posture.jpg)
+
+Dès que j'ai posé le pied sur le terrain de gazon synthétique, je me suis tout de suite sentie transportée dans un univers de soccer. En m'assoyant sur les estrades, je me suis cru en train d'assister à un vrai match de soccer. J'ai ensuite pu assister à um mélange de scènes sportives avec des scènes plus violentes et dramatiques. Pendant que les scènes de guerre jouaient, je pouvais entendre une musique très dramatique qui mettait beaucoup de suspense, c'est comme si j'étais dans les lieux de la guerre en train de voir de mes propres yeux ce qui se passait. Cette partie du film était beaucoup plus dure à voir.
+
+![Vue d'ensemble de l'oeuvre](./media/vue_film.jpg)
 > Photo prise par Sophia F.
 
-Dès que j'ai posé le pied sur le terrain de gazon synthétique, je me suis tout de suite sentie transportée dans un univers de soccer. En m'assoyant sur les estrades, je me suis cru en train d'assister à un vrai match de soccer. 
-
-
-
 ## Ce qui m'a plu
-Mettre en exposition deux oeuvres de même nature de façon différente. J'ai apprécié le fait que les oeuvres sur les murs n'étaient pas les deux des projections, mais plutôt une d'entre elles est une projection et l'autre est une impression sur papier. Cela rend la mise en exposition des éléments plus originale et moins ennuyante. En effet, j'ai été très rapidement captivée par les dizaines d'images générées présentées comme une mozaĩque, et j'ai aussi aimé le fait qu'on mette en évidence une image toute seule avec la projection, ce qui permet de voir plus attentivement les détails de l'image.
+J'ai apprécié que les scènes du match et celles du film sur la Bataille d'Alger étaient juxtaposées et n'étaient pas projetées de la même façon. Par exemple, pour les scènes de guerre, on ne voyait que les contours des personnes qui bougaient, et il n'y avait pas d'autre couleurs. Il y avait aussi des moments ou toute la vidéo était graineuse ou floue, ce qui donnait une touche plus unique à l'oeuvre. Ce mélange de textures m'a vraiment plu.
 
 
 ## Ce qui ne m'a pas plu
-Dans l'aspect de sécurité, j'aurais mieux organisé les cables qui étaient éparpillés et un peu entremêlés par terre, car elles passent par le chemin utilisé pour se déplacer dans l'exposition et pourraient engendrer des accidents si quelqu'un trébuche sur les fils, par exemple. En plus, leur présence assez visible n'est pas nécéssairement attrayante, donc j'aurais utilisé des chache-fil pour mieux organiser l'espace et ne pas donner trop d'attention aux cables.
+La ligne qui séparait la surface de projection me dérangeait un peu, je ne comprends pas trop son utilité dans la projection de la vidéo et je trouve qu'elle était de trop.
