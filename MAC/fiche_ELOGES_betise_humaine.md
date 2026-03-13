@@ -1,7 +1,7 @@
 # FICHE DE PRÉSENTATION
 # Éloges de l'image manquante
-![Affiche de l'exposition](./media/vernissage_exposition.webp)
-> [Affiche prise sur Facebook](https://www.facebook.com/events/1469117820907519/)
+![Affiche de l'exposition](./media/affiche_exposition_mac.webp)
+> [Affiche de l'exposition prise du compte de MAC sur Facebook](https://www.facebook.com/events/1469117820907519/)
 
 ## Lieu de l'exposition
 MAC Musée d'art contemporain à Place Ville-Marie, Montréal
@@ -15,7 +15,7 @@ temporaire et à l'intérieur
 
 
 ## Oeuvbre observée: Bêtise humaine
-![Vue d'ensemble de l'oeuvre](./media/)
+![Vue d'ensemble de l'oeuvre](./media/vue_ensemble_oeuvre.jpg)
 > Photo prise par Sophia F.
 
 
@@ -33,7 +33,7 @@ L'oeuvre est un court film mettant en scène des images du match de soccer en 20
 ## Type d'installation
 Installation contemplative et immersive
 
-![Vue descriptive installation](./media/)
+![Vue descriptive installation](./media/vue_film)
 > Photo prise par Sophia F.
 
 ![Vue descriptive installation](./media/)
