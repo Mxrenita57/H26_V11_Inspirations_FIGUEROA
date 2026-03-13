@@ -51,7 +51,6 @@ L'oeuvre est placée juste à gauche de l'entrée de l'exposition complète. Lor
 
 ## Composantes et techniques
 - Gazon articifiel
-- Estrades en aluminium soudé
 - Installation vidéo à canal unique
   
 ![Chaise](./media/gros_plan_chaise_tissu.jpg)
@@ -59,11 +58,12 @@ L'oeuvre est placée juste à gauche de l'entrée de l'exposition complète. Lor
 
   
 ## Éléments nécessaires à la mise en exposition
+- Estrades en aluminium soudé
 - Projecteur
 - Haut-parleurs
 - Cables à haut-parleur
-- Grand écran
-- Canal unique
+- Cables d'alimentation
+- Surface de projection
 
 ![Plafond](./media/installation_plafond.jpg)
 > Photo prise par Sophia F.
