@@ -49,7 +49,7 @@ L'oeuvre est placée juste à gauche de l'entrée de l'exposition complète. Lor
 - Gazon articifiel
 - Installation vidéo à canal unique
   
-![Gros plan de l'installation vidéo](./media/gros_plan_film_photo_mac.jpg)
+![Gros plan de l'installation vidéo](./media/gros_plan_film_photo_momenta.jpg)
 > Photo prise du site web de Momenta
 
   
