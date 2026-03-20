@@ -1,7 +1,7 @@
 # FICHE DE PRÉSENTATION
 # Réseau Vivant
 ![Affiche de l'exposition](./media/affiche_reseau_vivant.png)
-> Photo prise par Sophia F.
+> Affiche prise du site créé par les finissantes et finissants de 2026 du programme de Techniques d'intégration multimédia du Collège Montmorency (tim-montmorency.com)
 
 ## Lieu de l'exposition
 Grand Studio du Collège Montmorency
