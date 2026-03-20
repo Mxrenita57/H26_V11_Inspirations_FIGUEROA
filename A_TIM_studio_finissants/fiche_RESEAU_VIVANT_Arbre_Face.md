@@ -1,6 +1,6 @@
 # FICHE DE PRÉSENTATION
 # Réseau Vivant
-![Affiche de l'exposition](./media/)
+![Affiche de l'exposition](./media/affiche_reseau_vivant.png)
 > Photo prise par Sophia F.
 
 ## Lieu de l'exposition
