@@ -4,7 +4,7 @@
 > Affiche prise du [site](https://tim-montmorency.com/2026/#/) créé par les finissantes et finissants de 2026 du programme de Techniques d'intégration multimédia du Collège Montmorency
 
 ## Lieu de l'exposition
-Grand Studio du Collège Montmorency
+Grand Studio TIM du Collège Montmorency
 
 ## Type d'exposition
 temporaire et à l'intérieur
@@ -15,7 +15,7 @@ temporaire et à l'intérieur
 
 
 ## Oeuvbre observée: Arbre en Face
-![Vue d'ensemble de l'oeuvre](./media/)
+![Vue d'ensemble de l'oeuvre](./media/arbre_face_vue_ensemble.jpg)
 > Photo prise par Sophia F.
 
 
@@ -33,11 +33,8 @@ L'oeuvre est un écosystème numérique où le public peut toucher une toile où
 ## Type d'installation
 Installation interactive
 
-![Vue descriptive installation](./)
+![Vue descriptive installation](./media/arbre_face_demo.mp4)
 > Photo prise par Sophia F.
-
-![Vue descriptive installation](./media/)
-> Photo prise du site web de Momenta
 
 
 ## Mise en espace
@@ -52,7 +49,7 @@ En entrant dans le Grand Studio, on aperçoit immédiatement le coté latéral d
 - lidars
 - trépieds
   
-![Gros plan de l'installation vidéo](./media)
+![Gros plan des composantes](./media/composantes.jpg)
 > Photo prise par Sophia F.
 
   
@@ -88,7 +85,7 @@ En entrant dans le Grand Studio, on aperçoit immédiatement le coté latéral d
 
 Dès que j'ai posé le pied sur le terrain de gazon synthétique, je me suis tout de suite sentie transportée dans un univers de soccer. En m'assoyant sur les estrades, je me suis cru en train d'assister à un vrai match de soccer. J'ai ensuite pu assister à um mélange de scènes sportives avec des scènes plus violentes et dramatiques. Pendant que les scènes de guerre jouaient, je pouvais entendre une musique très dramatique qui mettait beaucoup de suspense, c'est comme si j'étais dans les lieux de la guerre en train de voir de mes propres yeux ce qui se passait. Cette partie du film était beaucoup plus dure à voir.
 
-![Vue d'ensemble de l'oeuvre](./media/vue_film.jpg)
+![Vue descriptive installation](./media/plan_moyen.jpg)
 > Photo prise par Sophia F.
 
 ## Ce qui m'a plu
