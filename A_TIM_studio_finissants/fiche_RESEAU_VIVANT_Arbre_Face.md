@@ -83,13 +83,14 @@ En entrant dans le Grand Studio, on aperçoit immédiatement le coté latéral d
 
 ## Expérience vécue	
 
-Dès que j'ai posé le pied sur le terrain de gazon synthétique, je me suis tout de suite sentie transportée dans un univers de soccer. En m'assoyant sur les estrades, je me suis cru en train d'assister à un vrai match de soccer. J'ai ensuite pu assister à um mélange de scènes sportives avec des scènes plus violentes et dramatiques. Pendant que les scènes de guerre jouaient, je pouvais entendre une musique très dramatique qui mettait beaucoup de suspense, c'est comme si j'étais dans les lieux de la guerre en train de voir de mes propres yeux ce qui se passait. Cette partie du film était beaucoup plus dure à voir.
+C'était intéressant de voir que, avec mon doigt, je pouvais simuler la croissance de plantes ou d'arbres. Lorsqu'une plante poussait, je pouvais entendre un bruit d'étirement accompagné d'un effet sonore "Wow!" à la fin, lorsque la plante avait atteint sa hauteur maximale et que la fleur arborant un visage apparaissait. Je m'amusais à faire pousser plusieurs arbres en même temps mais d'hauteurs différentes.
 
 ![Vue descriptive installation](./media/plan_moyen.jpg)
 > Photo prise par Sophia F.
 
 ## Ce qui m'a plu
-J'ai apprécié que les scènes du match et celles du film sur la Bataille d'Alger étaient juxtaposées et n'étaient pas projetées de la même façon. Par exemple, pour les scènes de guerre, on ne voyait que les contours des personnes qui bougaient, et il n'y avait pas d'autre couleurs. Il y avait aussi des moments ou toute la vidéo était graineuse ou floue, ce qui donnait une touche plus unique à l'oeuvre. Ce mélange de textures m'a vraiment plu.
+J'ai vraiment aimé le fait que le dévoilement des fleurs avec les visages était une surprise, on ne sait pas si c'est le nôtre qui sera le prochain à apparaître, et donc avec mes amies, je m'amusais à prédire quel visage allait apparaître avec l'arbre que je faisais pousser. J'ai aussi vraiment apprécié la variété de plantes et d'arbres qui poussaient: il y en avait de toutes les formes, de toutes les couleurs et de toutes les tailles.
 
 
 ## Ce qui ne m'a pas plu
+Un point à améliorer dans cette oeuvre serait peut-être de légèrement agrandir les images des visages, car parfois elles n'étaient pas très visibles à cause de la qualité de la photo et je n'arrivais à voir c'était le visage à qui.
