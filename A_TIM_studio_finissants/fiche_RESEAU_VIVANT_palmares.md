@@ -8,6 +8,7 @@ Patricia Nassif, Jade Hébert, Manel Yaya, Edelwyn Ledru, Félix Lavoie
 ![Vue d'ensemble](./media/quand_yeux_croisent.jpg)
 ## Schéma de l'installation prévue
 ![Plan implantation](./media/plan_plantation_quand_yeux_croisent.jpg)
+> Image prise de la [documentation Github](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/) de l'équipe
 ## Mon expérience avec justification (avant/après l'expérimentation)		
 ## Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la grille de cours du programme)		
 ## Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.	photo ou croquis de la technique ou composante	Indiquer la source de l'information pour cette recherche
@@ -20,7 +21,7 @@ Patricia Nassif, Jade Hébert, Manel Yaya, Edelwyn Ledru, Félix Lavoie
 ![Vue d'ensemble](./media/terminal.jpg)
 ## Schéma de l'installation prévue	
 ![Plan implantation](./media/plan_plantation_terminal.png) ![Plan implantation](./media/plan_plantation_haut_terminal.png)
-et indiquer la source dans la légende et le nom du fichier)
+> Image prise de la [documentation Github](https://pythons-5.github.io/Terminal/#/technique/) de l'équipe
 ## Mon expérience avec justification (avant/après l'expérimentation)		
 ## Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la grille de cours du programme)		
 ## Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.	photo ou croquis de la technique ou composante	Indiquer la source de l'information pour cette recherche
@@ -32,6 +33,7 @@ et indiquer la source dans la légende et le nom du fichier)
 ![Vue d'ensemble](./media/symbiose.jpg)
 ## Schéma de l'installation prévue
 ![Plan implantation](./media/plan_implantation_symbiose.jpg)
+> Image prise de la [documentation Github](https://les-chimistes.github.io/symbiose/#/technique/) de l'équipe
 ## Mon expérience avec justification (avant/après l'expérimentation)		
 ## Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la grille de cours du programme)		
 ## Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.	photo ou croquis de la technique ou composante	Indiquer la source de l'information pour cette recherche
@@ -43,6 +45,7 @@ et indiquer la source dans la légende et le nom du fichier)
 ![Vue d'ensemble](./media/mission_decollage.jpg)
 ## Schéma de l'installation prévue
 ![Plan implantation](./media/plan_implantation_oignon.jpg)
+> Image prise de la [documentation Github](https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/) de l'équipe
 ## Mon expérience avec justification (avant/après l'expérimentation)		
 ## Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la grille de cours du programme)		
 ## Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.	photo ou croquis de la technique ou composante	Indiquer la source de l'information pour cette recherche
@@ -54,6 +57,7 @@ et indiquer la source dans la légende et le nom du fichier)
 ![Vue d'ensemble](./media/ocean_rouge.jpg)
 ## Schéma de l'installation prévue
 ![Plan implantation](./media/plan_implantation_ocean_rouge.png)
+> Image prise de la [documentation Github](https://deux-intelligence.github.io/deux-neurones/#/technique/) de l'équipe
 ## Mon expérience avec justification (avant/après l'expérimentation)		
 ## Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la grille de cours du programme)		
 ## Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.	photo ou croquis de la technique ou composante	Indiquer la source de l'information pour cette recherche
