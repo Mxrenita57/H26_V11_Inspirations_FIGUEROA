@@ -46,11 +46,11 @@ En entrant dans le Grand Studio, on aperçoit immédiatement le coté latéral d
 
 
 ## Composantes et techniques
-Pinces pour la toile
-toile en splandex
-Peinture et vernis
-lidars
-trépieds
+- Pinces pour la toile
+- toile en splandex
+- Peinture et vernis
+- lidars
+- trépieds
   
 ![Gros plan de l'installation vidéo](./media)
 > Photo prise par Sophia F.
