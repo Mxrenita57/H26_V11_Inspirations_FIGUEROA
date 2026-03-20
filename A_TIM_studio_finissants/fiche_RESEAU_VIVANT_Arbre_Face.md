@@ -93,4 +93,4 @@ J'ai vraiment aimé le fait que le dévoilement des fleurs avec les visages éta
 
 
 ## Ce qui ne m'a pas plu
-Un point à améliorer dans cette oeuvre serait peut-être de légèrement agrandir les images des visages, car parfois elles n'étaient pas très visibles à cause de la qualité de la photo et je n'arrivais à voir c'était le visage à qui.
+Un point à améliorer dans cette oeuvre serait peut-être de légèrement agrandir les images des visages, car parfois elles n'étaient pas très visibles à cause de la qualité de la photo ou leur taille était trop petite et je n'arrivais à voir c'était le visage à qui.
