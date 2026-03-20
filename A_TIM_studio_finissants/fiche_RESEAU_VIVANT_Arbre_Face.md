@@ -33,8 +33,7 @@ L'oeuvre est un écosystème numérique où le public peut toucher une toile où
 ## Type d'installation
 Installation interactive
 
-![Vue descriptive installation](./media/arbre_face_demo.mp4)
-> Photo prise par Sophia F.
+[![Regarder la démo](https://img.youtube.com/vi/https://youtube.com/shorts/NnNzhEclORM?feature=share/hqdefault.jpg)](https://www.youtube.com/watch?v=https://youtube.com/shorts/NnNzhEclORM?feature=share)
 
 
 ## Mise en espace
