@@ -34,7 +34,7 @@ L'oeuvre est un écosystème numérique où le public peut toucher une toile où
 Installation interactive
 
 ![thumbnail](./media/thumbnail.webp)
-> ![Visionner la démo](https://youtube.com/shorts/NnNzhEclORM?feature=share)
+> https://youtube.com/shorts/NnNzhEclORM?feature=share
 
 
 ## Mise en espace
