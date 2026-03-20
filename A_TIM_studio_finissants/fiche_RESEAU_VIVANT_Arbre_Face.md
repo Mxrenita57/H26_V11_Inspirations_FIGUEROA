@@ -38,7 +38,7 @@ Installation interactive
 
 
 ## Mise en espace
-En entrant dans le Grand Studio, on aperçoit immédiatement le coté latéral de l'oeuvre en face de nous. L'oeuvre est accotée au mur droit du studio juste en face de l'entrée, servant de surface principale de projection. En avancant de quelques pas, on voit au sol un petit carré indiquant au participant où se placer pour être détecté par une caméra qui va scanner son visage pour qu'elle puisse ainsi apparaître dans la projection, lorsqu'un arbre ou une plante poussera. Finalement, il faut avancer un peu plus et faire face à se mur pour voir l'entièreté de l'installation.
+En entrant dans le Grand Studio, on aperçoit immédiatement le coté latéral de l'oeuvre en face de nous. L'oeuvre est accotée au mur droit du studio juste en face de l'entrée, servant de surface principale de projection. En avancant de quelques pas, on voit au sol un petit carré indiquant au participant où se placer pour être détecté par une caméra qui va scanner son visage pour qu'elle puisse ainsi apparaître dans la projection, lorsqu'un arbre ou une plante poussera. Finalement, il faut avancer un peu plus et faire face à ce mur pour voir l'entièreté de l'installation.
 
 
 
