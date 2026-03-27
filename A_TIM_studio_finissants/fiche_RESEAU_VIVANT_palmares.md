@@ -1,7 +1,7 @@
 # Palmarès des oeuvres - RÉSEAU VIVANT
 
 ## No ordre de préférence: 1
-## Titre du projet:	Quand les yeux se croisent	
+## Titre du projet:	# Quand les yeux se croisent	
 ## Noms des créateurs et créatrices:	
 Patricia Nassif, Jade Hébert, Manel Yaya, Edelwyn Ledru, Félix Lavoie
 ## Installation:
