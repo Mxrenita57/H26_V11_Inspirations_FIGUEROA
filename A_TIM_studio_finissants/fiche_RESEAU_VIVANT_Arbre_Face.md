@@ -14,7 +14,7 @@ temporaire et à l'intérieur
 24 février 2026, 17 mars 2026
 
 
-## Oeuvbre observée: Arbre en Face
+## Oeuvre observée: Arbre en Face
 ![Vue d'ensemble de l'oeuvre](./media/arbre_face_vue_ensemble.jpg)
 > Photo prise par Sophia F.
 
