@@ -49,7 +49,7 @@ Réalisé par: Amira Tounekti, Kristy Moussally
 ![Plan implantation](./media/plan_implantation_ocean_rouge.png)
 > Image prise de la [documentation Github](https://deux-intelligence.github.io/deux-neurones/#/technique/) de l'équipe
 ## Mon expérience	
-J'aime le concept du jeu, c'était amusant de manipuler le joystick pour ramasser les déchets. Cependant, le niveau de difficulté n'augmente jamais, il n'y a pas de fin au jeu, ce qui était ennuyant selon moi. J'aurais aimé qu'il y ait plus de niveaux avec des buts plus spécifique pour que l'expérience varie un peu plus d'une partie de jeu à une autre. <br><br><br><br><br>
+J'aime le concept du jeu, c'était amusant de manipuler le joystick pour ramasser les déchets. Cependant, le niveau de difficulté n'augmente jamais, il n'y a pas de fin au jeu, ce qui était ennuyant selon moi. J'aurais aimé qu'il y ait plus de niveaux avec des buts plus spécifiques pour que l'expérience varie un peu plus d'une partie de jeu à une autre. <br><br><br><br><br>
 ## 3 cours du programme incontournables pour créer ce projet	
 - [ ] Conception d’une expérience multimédia
 - [ ] Objets interactifs et Réalité mixte
