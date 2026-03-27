@@ -2,8 +2,7 @@
 
 ## No ordre de préférence: 1
 ## Titre du projet: QUAND LES YEUX SE CROISENT	
-## Noms des créateurs et créatrices:	
-Patricia Nassif, Jade Hébert, Manel Yaya, Edelwyn Ledru, Félix Lavoie
+Réalisé par: Patricia Nassif, Jade Hébert, Manel Yaya, Edelwyn Ledru, Félix Lavoie
 ## Installation:
 ![Vue d'ensemble](./media/quand_yeux_croisent.jpg)
 ## Schéma de l'installation prévue
@@ -15,8 +14,7 @@ L'oeuvre est très belle à observer. Il y a beaucoup de détail et d'éléments
 
 ## No ordre de préférence: 	2
 ## Titre du projet:		TERMINAL
-## Noms des créateurs et créatrices:
-Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
+Réalisé par: Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
 ## Installation:
 ![Vue d'ensemble](./media/terminal.jpg)
 ## Schéma de l'installation prévue	
@@ -27,9 +25,8 @@ Les chaises de style <<pouf>> m'ont immédiatement attiré l'attention, je n'ai 
 
 
 ## No ordre de préférence: 	3
-## Titre du projet:		SYMBIOSE
-## Noms des créateurs et créatrices:	
-Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour
+## Titre du projet:		SYMBIOSE	
+Réalisé par: Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour
 ## Installation:
 ![Vue d'ensemble](./media/symbiose.jpg)
 ## Schéma de l'installation prévue
@@ -41,8 +38,7 @@ Le concept d'expérience scientifique du jeu est génial et le design des diffé
 
 ## No ordre de préférence: 	4
 ## Titre du projet:		MISSION DÉCOLLAGE
-## Noms des créateurs et créatrices:	
-Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
+Réalisé par: Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 ## Installation:
 ![Vue d'ensemble](./media/mission_decollage.jpg)
 ## Schéma de l'installation prévue
@@ -54,8 +50,7 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 
 ## No ordre de préférence: 	5
 ## Titre du projet:		OCÉAN ROUGE
-## Noms des créateurs et créatrices:	
-Amira Tounekti, Kristy Moussally
+Réalisé par: Amira Tounekti, Kristy Moussally
 ## Installation:
 ![Vue d'ensemble](./media/ocean_rouge.jpg)
 ## Schéma de l'installation prévue
