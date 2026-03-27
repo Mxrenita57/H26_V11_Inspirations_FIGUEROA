@@ -51,12 +51,12 @@ Réalisé par: Amira Tounekti, Kristy Moussally
 ## Mon expérience avec justification (avant/après l'expérimentation)		
 J'aime le concept du jeu, c'était amusant de manipuler le joystick pour ramasser les déchets. Cependant, le niveau de difficulté n'augmente jamais, il n'y a pas de fin au jeu, ce qui était ennuyant selon moi. J'aurais aimé qu'il y ait plus de niveaux avec des buts plus spécifique pour que l'expérience varie un peu plus d'une partie de jeu à une autre. <br><br><br><br><br>
 ## 3 cours du programme incontournables pour créer ce projet	
-[] - Conception d’une expérience multimédia
-[] - Objets interactifs et Réalité mixte
-[] - Traitement audiovisuel <br><br>
+- [ ] Conception d’une expérience multimédia
+- [ ] Objets interactifs et Réalité mixte
+- [ ] Traitement audiovisuel <br><br>
 
 ## Nouvelle composante technologique qui est utilisée dans l'un des projets et que j'ai apprise.
-### Un lidar (Utilisé dans le projet <<Arbre en Face>>)
+### Un lidar (Utilisé dans le projet << Arbre en Face >>)
 Le lidar ou LiDAR (Light Detection And Ranging) est un appareil de télédétection qui utilise des faisceaux laser pour mesurer des distances et des mouvements, et ce, en temps réel. Pour mesurer une distance, le LiDAR calcule le temps qu'a mis la lumière pour revnir. Elle permet ainsi de créer des modèles 3D précis de l'environnement. Elle est surtout utilisée dans des domaines tels que la cartographie et la gestion forestière.
 ![Image exemple d'un LiDAR](./media/lidar.jpg)
 > Information tirée de [Wikipédia](https://fr.wikipedia.org/wiki/Lidar)
