@@ -19,7 +19,7 @@ Réalisé par: Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-T
 ![Plan implantation](./media/plan_plantation_terminal.png) ![Plan implantation](./media/plan_plantation_haut_terminal.png)
 > Image prise de la [documentation Github](https://pythons-5.github.io/Terminal/#/technique/) de l'équipe
 ## Mon expérience avec justification (avant/après l'expérimentation)
-Les chaises de style <<pouf>> m'ont immédiatement attiré l'attention, je n'ai donc pas perdu de temps et je me suis assise sur une d'elles pour commencer le jeu. C'était très confortable, ce qui a rendu mon expérience beaucoup plus relaxante. J'ai aimé le fait qu'on travaille en équipe pour réussir les niveaux, c'était drôle de pointer du doigt le fautif de l'équipe quand on perdait. Par contre, le niveau qu'on jouait se répétait plusieurs fois, même si on l'avait déjà réussi. Pour chaque niveau qu'on jouait, il était répété au moins 5 fois avant de passer au prochain, ce qui a rendu mon expérience au final plus ennuyante.  
+Les chaises de style <<pouf>> m'ont immédiatement attiré l'attention, je n'ai donc pas perdu de temps et je me suis assise sur une d'elles pour commencer le jeu. C'était très confortable, ce qui a rendu mon expérience beaucoup plus relaxante. J'ai aimé le fait qu'on travaille en équipe pour réussir les niveaux, c'était drôle de pointer du doigt le fautif de l'équipe quand on perdait. Par contre, le niveau qu'on jouait se répétait plusieurs fois, même si on l'avait déjà réussi. Pour chaque niveau qu'on jouait, il était répété au moins 5 fois avant de passer au prochain, ce qui a rendu mon expérience au final plus ennuyante. <br><br><br><br><br>
 ## No ordre de préférence: 	3
 ## Titre du projet:		SYMBIOSE	
 Réalisé par: Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour
@@ -29,7 +29,7 @@ Réalisé par: Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour
 ![Plan implantation](./media/plan_implantation_symbiose.jpg)
 > Image prise de la [documentation Github](https://les-chimistes.github.io/symbiose/#/technique/) de l'équipe
 ## Mon expérience avec justification (avant/après l'expérimentation)	
-Le concept d'expérience scientifique du jeu est génial et le design des différentes composantes est vraiment bien fait et attrayant, les couleurs sont bien choisies, elles sont très vibrantes. J'ai aimé comment les rôles ont été répartis dans des stations différentes, cela m'a fait penser au jeu de pacman que je jouais avec mes amis au cinéma, dont les participants sont disposés de manière très similaire. Il y avait assez d'information pour comprendre le rôle que chaque utilisateur doit remplir, mais pas assez pour comprendre le but final, comment on gagne (est-ce qu'il y a une limite de temps ou non? Faut-il simplement bien accomplir les tâches sans cesse pour <<gagner>>?), et comment la partie se finit. Je pense qu'il devrait y avoir plus de précision à ce sujet.  
+Le concept d'expérience scientifique du jeu est génial et le design des différentes composantes est vraiment bien fait et attrayant, les couleurs sont bien choisies, elles sont très vibrantes. J'ai aimé comment les rôles ont été répartis dans des stations différentes, cela m'a fait penser au jeu de pacman que je jouais avec mes amis au cinéma, dont les participants sont disposés de manière très similaire. Il y avait assez d'information pour comprendre le rôle que chaque utilisateur doit remplir, mais pas assez pour comprendre le but final, comment on gagne (est-ce qu'il y a une limite de temps ou non? Faut-il simplement bien accomplir les tâches sans cesse pour <<gagner>>?), et comment la partie se finit. Je pense qu'il devrait y avoir plus de précision à ce sujet. <br><br><br><br><br> 
 ## No ordre de préférence: 	4
 ## Titre du projet:		MISSION DÉCOLLAGE
 Réalisé par: Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
@@ -39,13 +39,7 @@ Réalisé par: Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou La
 ![Plan implantation](./media/plan_implantation_oignon.jpg)
 > Image prise de la [documentation Github](https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/) de l'équipe
 ## Mon expérience avec justification (avant/après l'expérimentation)		
-À première vue, ce projet me semblait vraiment intéressant et amusant à jouer, mais malheureusement, je me suis très vite désintéressée au jeu, car je ne comprenais tout simplement pas comment jouer. Tout d'abord, ce sont les membres de l'équipe qui expliquaient les règles du jeu et comment fonctionnent chacun des boutons. Il n'y avait aucune indication dans la projection sur comment jouer, donc c'était très difficile pour moi de comprendre ce qu'il fallait faire, à chaque nouvelle situation ou problème qui apparaissait, c'était l'équipe qui était la seule à savoir comment procéder pour résoudre les problèmes du jeu, et donc je ne sentais pas que je faisais beaucoup d'efforts et que je n'étais pas réellement en train de jouer.
-
-
-
-
-
-
+À première vue, ce projet me semblait vraiment intéressant et amusant à jouer, mais malheureusement, je me suis très vite désintéressée au jeu, car je ne comprenais tout simplement pas comment jouer. Tout d'abord, ce sont les membres de l'équipe qui expliquaient les règles du jeu et comment fonctionnent chacun des boutons. Il n'y avait aucune indication dans la projection sur comment jouer, donc c'était très difficile pour moi de comprendre ce qu'il fallait faire, à chaque nouvelle situation ou problème qui apparaissait, c'était l'équipe qui était la seule à savoir comment procéder pour résoudre les problèmes du jeu, et donc je ne sentais pas que je faisais beaucoup d'efforts et que je n'étais pas réellement en train de jouer. <br><br><br><br><br>
 ## No ordre de préférence: 	5
 ## Titre du projet:		OCÉAN ROUGE
 Réalisé par: Amira Tounekti, Kristy Moussally
@@ -55,13 +49,7 @@ Réalisé par: Amira Tounekti, Kristy Moussally
 ![Plan implantation](./media/plan_implantation_ocean_rouge.png)
 > Image prise de la [documentation Github](https://deux-intelligence.github.io/deux-neurones/#/technique/) de l'équipe
 ## Mon expérience avec justification (avant/après l'expérimentation)		
-J'aime le concept du jeu, c'était amusant de manipuler le joystick pour ramasser les déchets. Cependant, le niveau de difficulté n'augmente jamais, il n'y a pas de fin au jeu, ce qui était ennuyant selon moi. J'aurais aimé qu'il y ait plus de niveaux avec des buts plus spécifique pour que l'expérience varie un peu plus d'une partie de jeu à une autre.
-
-
-
-
-
-
+J'aime le concept du jeu, c'était amusant de manipuler le joystick pour ramasser les déchets. Cependant, le niveau de difficulté n'augmente jamais, il n'y a pas de fin au jeu, ce qui était ennuyant selon moi. J'aurais aimé qu'il y ait plus de niveaux avec des buts plus spécifique pour que l'expérience varie un peu plus d'une partie de jeu à une autre. <br><br><br><br><br>
 ## 3 cours du programme incontournables pour créer ce projet	
 1- Conception d’une expérience multimédia
 2- Objets interactifs et Réalité mixte
