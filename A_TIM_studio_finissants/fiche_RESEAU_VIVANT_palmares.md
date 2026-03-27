@@ -58,5 +58,6 @@ J'aime le concept du jeu, c'était amusant de manipuler le joystick pour ramasse
 ## Nouvelle composante technologique qui est utilisée dans l'un des projets et que j'ai apprise.
 ### Un lidar (Utilisé dans le projet << Arbre en Face >>)
 Le lidar ou LiDAR (Light Detection And Ranging) est un appareil de télédétection qui utilise des faisceaux laser pour mesurer des distances et des mouvements, et ce, en temps réel. Pour mesurer une distance, le LiDAR calcule le temps qu'a mis la lumière pour revnir. Elle permet ainsi de créer des modèles 3D précis de l'environnement. Elle est surtout utilisée dans des domaines tels que la cartographie et la gestion forestière. <br><br>
+
 ![Image exemple d'un LiDAR](./media/lidar_tiendamia.jpg)
 > Information tirée de [Wikipédia](https://fr.wikipedia.org/wiki/Lidar) et photo prise de [tiendamia.com](https://tiendamia.com.ec/p/amz/b0b77d849m/eai-rplidar-x4-pro-lidar-2d-360-degree-lidar-sensor)
