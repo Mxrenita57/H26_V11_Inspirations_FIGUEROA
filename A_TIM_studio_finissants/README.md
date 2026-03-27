@@ -1,1 +1,1 @@
-
+## Ce dossier regroupe la documentation des projets des finissants en TIM de 2025-2026 présentés à l'exposition Réseau Vivant au grand studio TIM du Collège Montmorency, ainsi qu'une documentation plus détaillée sur mon coup-de-coeur de cette exposition, le projet Arbre en Face.
