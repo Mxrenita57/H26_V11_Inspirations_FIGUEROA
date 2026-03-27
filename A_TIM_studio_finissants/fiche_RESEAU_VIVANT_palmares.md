@@ -9,7 +9,7 @@ Réalisé par: Patricia Nassif, Jade Hébert, Manel Yaya, Edelwyn Ledru, Félix 
 ![Plan implantation](./media/plan_plantation_quand_yeux_croisent.jpg)
 > Image prise de la [documentation Github](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/) de l'équipe
 ## Mon expérience
-L'oeuvre est très belle à observer. Il y a beaucoup de détail et d'éléments de décoration qui ont été pensés, ce qui fait de l'installation une oeuvre très originale et artisitique. Ce n'est pas très évident au début où se placer pour que la caméra nous enregistre, mais lorsque c'est fait, le résultat est très captivant: On voit nos yeux en très grands dans une ou plusieurs des écrans de TV. Par contre, durant ma deuxième visite, j'ai remarqué que des dessins de empreintes de pieds ont été ajoutés au sol pour montrer à l'utilisateur où il doit se positionner, ce qui est une amélioration.
+L'oeuvre est très belle à observer. Il y a beaucoup de détail et d'éléments de décoration qui ont été pensés, ce qui fait de l'installation une oeuvre très originale et artisitique. Ce n'est pas très évident au début où se placer pour que la caméra nous enregistre, mais lorsque c'est fait, le résultat est très captivant: On voit nos yeux en très grands dans une ou plusieurs des écrans de TV. Par contre, durant ma deuxième visite, j'ai remarqué que des dessins de empreintes de pieds ont été ajoutés au sol pour montrer à l'utilisateur où il doit se positionner, ce qui est une amélioration. <br><br>
 ## No ordre de préférence: 	2
 ## Titre du projet:		TERMINAL
 Réalisé par: Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
