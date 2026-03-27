@@ -1,8 +1,7 @@
 # Palmarès des oeuvres - RÉSEAU VIVANT
 
 ## No ordre de préférence: 1
-## Titre du projet:
-# Quand les yeux se croisent	
+## Titre du projet: QUAND LES YEUX SE CROISENT	
 ## Noms des créateurs et créatrices:	
 Patricia Nassif, Jade Hébert, Manel Yaya, Edelwyn Ledru, Félix Lavoie
 ## Installation:
@@ -15,7 +14,7 @@ L'oeuvre est très belle à observer. Il y a beaucoup de détail et d'éléments
 
 
 ## No ordre de préférence: 	2
-## Titre du projet:		Terminal
+## Titre du projet:		TERMINAL
 ## Noms des créateurs et créatrices:
 Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
 ## Installation:
@@ -28,7 +27,7 @@ Les chaises de style <<pouf>> m'ont immédiatement attiré l'attention, je n'ai 
 
 
 ## No ordre de préférence: 	3
-## Titre du projet:		Symbiose
+## Titre du projet:		SYMBIOSE
 ## Noms des créateurs et créatrices:	
 Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour
 ## Installation:
@@ -41,7 +40,7 @@ Le concept d'expérience scientifique du jeu est génial et le design des diffé
 
 
 ## No ordre de préférence: 	4
-## Titre du projet:		Mission Décollage
+## Titre du projet:		MISSION DÉCOLLAGE
 ## Noms des créateurs et créatrices:	
 Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 ## Installation:
@@ -54,7 +53,7 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 
 
 ## No ordre de préférence: 	5
-## Titre du projet:		Océan Rouge
+## Titre du projet:		OCÉAN ROUGE
 ## Noms des créateurs et créatrices:	
 Amira Tounekti, Kristy Moussally
 ## Installation:
