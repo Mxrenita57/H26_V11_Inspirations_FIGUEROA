@@ -1,5 +1,5 @@
 # FICHE DE PRÉSENTATION
-# Réseau Vivant
+# Science en Grand
 ![Affiche de l'exposition](./media/)
 > Affiche prise du [site](https://tim-montmorency.com/2026/#/) créé par les finissantes et finissants de 2026 du programme de Techniques d'intégration multimédia du Collège Montmorency
 
@@ -11,20 +11,20 @@ Permanente, à l'intérieur
 
 
 ## Date de la visite		
-24 février 2026, 17 mars 2026
+1er avril 2026
 
 
-## Oeuvre observée: Arbre en Face
-![Vue d'ensemble de l'oeuvre](./media/arbre_face_vue_ensemble.jpg)
+## Oeuvre observée: Théatre d'ombres
+![Vue d'ensemble de l'oeuvre](./media/)
 > Photo prise par Sophia F.
 
 
 ## Artistes
-Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Mathis Ghariani, Rafael Angon Dube
+UBISOFT
 
 
 ## Année de réalisation		
-2026
+
 
 
 ## Description de l'oeuvre 
@@ -33,7 +33,7 @@ L'oeuvre est un écosystème numérique où le public peut toucher une toile où
 ## Type d'installation
 Installation interactive
 
-![thumbnail](./media/thumbnail.webp)
+![thumbnail](./media/)
 > https://youtube.com/shorts/NnNzhEclORM?feature=share
 
 
@@ -43,37 +43,14 @@ En entrant dans le Grand Studio, on aperçoit immédiatement le coté latéral d
 
 
 ## Composantes et techniques
-- Pinces pour la toile
-- toile en splandex
-- Peinture et vernis
-- lidars
-- trépieds
+
   
-![Gros plan des composantes](./media/composantes.jpg)
+![Gros plan des composantes](./media)
 > Photo prise par Sophia F.
 
   
 ## Éléments nécessaires à la mise en exposition
-- Ordinateur de l'école
-- Moniteurs
-- Clavier
-- Souris
-- Haut-parleurs
-- Caméra pour ordinateur
-- Projecteurs
-- bc204
-- Multiprises électriques
-- Rallonges électriques
-- Rouleaux de velcro pour fils
-- Cables Ethernet
-- Transmetteur Cat6
-- Recepteur Cat6
-- Cables HDMI
-- Cables XLR
-- Cables USB
-- Cables Display Port
-- Sac de sable
-- Bois
+
   
 
 
@@ -81,7 +58,7 @@ En entrant dans le Grand Studio, on aperçoit immédiatement le coté latéral d
 
 C'était intéressant de voir que, avec mon doigt, je pouvais simuler la croissance de plantes ou d'arbres. Lorsqu'une plante poussait, je pouvais entendre un bruit d'étirement accompagné d'un effet sonore "Wow!" à la fin, lorsque la plante avait atteint sa hauteur maximale et que la fleur arborant un visage apparaissait. Je m'amusais à faire pousser plusieurs arbres en même temps mais d'hauteurs différentes.
 
-![Vue descriptive installation](./media/plan_moyen.jpg)
+![Vue descriptive installation](./media/)
 > Photo prise par Sophia F.
 
 ## Ce qui m'a plu
