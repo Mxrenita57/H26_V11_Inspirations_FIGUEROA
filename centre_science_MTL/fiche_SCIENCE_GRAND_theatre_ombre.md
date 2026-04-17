@@ -1,7 +1,7 @@
 # FICHE DE PRÉSENTATION
-# Science en Grand
+# Explore - La science en grand
 ![Affiche de l'exposition](./media/)
-> Affiche prise du [site](https://tim-montmorency.com/2026/#/) créé par les finissantes et finissants de 2026 du programme de Techniques d'intégration multimédia du Collège Montmorency
+> Photo de l'installation du kaléidoscope par Benoit Rousseau (2023)
 
 ## Lieu de l'exposition
 Centre des sciences de Montréal
@@ -24,25 +24,34 @@ UBISOFT
 
 
 ## Année de réalisation		
-
+2019
 
 
 ## Description de l'oeuvre 
-L'oeuvre est un écosystème numérique où le public peut toucher une toile où seront projetés des arbres et des plantes que chaque individu fera pousser avec ses doigts. Au sommet des arbres apparaissent le visage d'une personne parmi les participants.
+Le théatre d'ombres est une installation qui permet d'expérimenter la programmation afin de faire bouger des objets et de changer les couleurs de lumières pour personnaliser les ombres qui seront créées sur le mur. Le language de programmation est très similaire à celui du site <<Scratch>>, qui est un logiciel destiné à apprendre aux jeunes les bases de la programmation d'animations. Il faut essentiellement déplacer des blocs contenant différentes instructions de code et les assembler selon l'ordre voulu. Ensuite, il suffit de cliquer sur le bouton <<Démarrer>> pour que l'animation des objets et des lumières se produise. Cette méthode de glisser-déposer des blocs de code rend la programmation plus visuelle et ludique, ce qui la rend plus accessible pour les enfants. En effet, cette installation est destinée aux enfants de 6 à 12 ans. C'est une excellente façon d'utiliser la programmation pour créer quelque chose d'artistique et de découvrir l'art des ombres sur le mur!
+
 
 ## Type d'installation
-Installation interactive
+Interactive et immersive
+
 
 ![thumbnail](./media/)
-> https://youtube.com/shorts/NnNzhEclORM?feature=share
+
 
 
 ## Mise en espace
-En entrant dans le Grand Studio, on aperçoit immédiatement le coté latéral de l'oeuvre en face de nous. L'oeuvre est accotée au mur droit du studio juste en face de l'entrée, servant de surface principale de projection. En avancant de quelques pas, on voit au sol un petit carré indiquant au participant où se placer pour être détecté par une caméra qui va scanner son visage pour qu'elle puisse ainsi apparaître dans la projection, lorsqu'un arbre ou une plante poussera. Finalement, il faut avancer un peu plus et faire face à ce mur pour voir l'entièreté de l'installation.
+L'installation est située dans un local fermé, plongé dans le noir. Le local est situé au fond de la salle de l'exposition en entier, environ au milieu de celle-ci. À côté du local et du côté droit se trouve une autre installation de programmation (Animation d'une voiture à l'aide de l'IA), et les deux locaux sont connectées par une porte commune qui permet à un de se déplacer rapidement d'un local à un autre. Sur le mur de gauche, il y a trois grandes fenêtres verticales qui donnent à la vue de l'extérieur avec tout le reste des oeuvres et sur la droite, une grande fenêtre horizontale qui nous permet de voir ce que les autres programment dans l'autre local. En entrant, on voit un écran de taille moyenne qui fait face au mur opposé de celui où les ombres seront projetées. Ensuite, derrière l'écran se trouve une table où est posé la machine avec les ampoules pour projeter les lumière, et un peu plus loin sur cette table se trouvent les différents objets en bois sur une petite tablette en forme de cercle qui tourne. À gauche, juste à côté de la fenêtre, se trouve un panneau qui décrit ce que la programmation fait et à quoi ça sert, et à droite, en dessous de l'autre fenêtre, on voit une étagère. On peut y déposer les objets en bois qu'on ne veut pas utiliser pour créer les ombres.
 
 
 
 ## Composantes et techniques
+- 3 objets en bois (2 animaux et un arbre)
+- Un écran tactile de taille moyenne
+- Boîtier d'ordinateur connecté à l'écran
+- 2 ampoules
+- Cables
+- Table (Plateforme)
+- Petite tablette en bois en forme de cercle
 
   
 ![Gros plan des composantes](./media)
@@ -50,18 +59,24 @@ En entrant dans le Grand Studio, on aperçoit immédiatement le coté latéral d
 
   
 ## Éléments nécessaires à la mise en exposition
+- Une lumière de type <<spotlight>>
+- Une étagère en bois
+- Le mur du local
 
   
 
 
 ## Expérience vécue	
+En entrant dans le local, j'ai tout de suite remarqué l'écran et les animaux en bois devant. Je me suis questionnée sur ce qu'il fallait faire, puisque je n'ai pas vraiment assisté à du théatre d'ombres auparavant: je ne savais donc pas à quoi m'attendre, c'était toute une surprise. J'ai commencé à manipuler les blocs d'instructions sans trop savoir ce que j'allais faire. J'ai ensuite assemblé quelques blocs ensemble, et lorsque j'ai appuyé sur le bouton de démarrage, j'ai été surprise de voir que les ampoules avaient changé de couleurs et qu'on voyait les ombres des objets en rotation, et tout cela était projeté sur le mur. Le résultat était captivant à observer: c'était un jeu d'ombre que j'avais par moi-même programmé. J'ai donc continué à essayer des nouvelles combinaisons de blocs pour créer d'autres séquences. C'était très amusant de programmer, le système de blocs m'a fait penser à mon enfance quand on m'avait appris à utiliser le language de programmation <<scratch>>, c'était un très bon souvenir.
 
-C'était intéressant de voir que, avec mon doigt, je pouvais simuler la croissance de plantes ou d'arbres. Lorsqu'une plante poussait, je pouvais entendre un bruit d'étirement accompagné d'un effet sonore "Wow!" à la fin, lorsque la plante avait atteint sa hauteur maximale et que la fleur arborant un visage apparaissait. Je m'amusais à faire pousser plusieurs arbres en même temps mais d'hauteurs différentes.
+
 
 ![Vue descriptive installation](./media/)
 > Photo prise par Sophia F.
 
 ## Ce qui m'a plu
-J'ai vraiment aimé le fait que le dévoilement des fleurs avec les visages était une surprise, on ne sait pas si c'est le nôtre qui sera le prochain à apparaître, et donc avec mes amies, je m'amusais à prédire quel visage allait apparaître avec l'arbre que je faisais pousser. J'ai aussi vraiment apprécié la variété de plantes et d'arbres qui poussaient: il y en avait de toutes les formes, de toutes les couleurs et de toutes les tailles.
+La programmation est simple facile à utiliser, surtout pour les jeunes enfants puisqu'ils sont le public-cible. C'est une installation qui est selon moi très éducative et qui montre aux enfants ce qu'on peut faire avec les ordinateurs et de pouvoir le pratiquer. J'aime aussi le fait qu'on peut déplacer les objets comme on veut sur la plateforme en cercle pour modifier légèrement l'image sur le mur.
+
 
 ## Ce qui ne m'a pas plu
+J'aurais quand-même voulu qu'il y ait plus de choix de formes d'ombres qu'on puisse faire, car il n'y avait que 3 objets et donc 3 ombres possibles: Un lapin, un phoque et un arbre. Je pense qu'ajouter plus d'objets variés donnerait place à plus d'imagination chez les enfants. En effet, ils s'amuseraient à créer une scène avec les objets et à compléter le tout avec un choix de couleur d'éclairage réfléchi.
