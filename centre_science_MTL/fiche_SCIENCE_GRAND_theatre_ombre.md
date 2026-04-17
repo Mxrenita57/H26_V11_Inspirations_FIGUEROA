@@ -1,6 +1,6 @@
 # FICHE DE PRÉSENTATION
 # Explore - La science en grand
-![Affiche de l'exposition](./media/kaleidoscope_photo_centre_science_mtl.jpg)
+![Enfants qui courent dans un tunnel de kaleidoscope](./media/kaleidoscope_photo_centre_science-mtl.jpg)
 > Photo de l'installation du kaléidoscope par Benoit Rousseau (2023)
 
 ## Lieu de l'exposition
