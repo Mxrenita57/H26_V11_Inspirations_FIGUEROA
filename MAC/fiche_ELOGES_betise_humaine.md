@@ -14,7 +14,7 @@ temporaire et à l'intérieur
 22 février 2026
 
 
-## Oeuvbre observée: Bêtise humaine
+## Oeuvre observée: Bêtise humaine
 ![Vue d'ensemble de l'oeuvre](./media/vue_ensemble_oeuvre.jpg)
 > Photo prise par Sophia F.
 
