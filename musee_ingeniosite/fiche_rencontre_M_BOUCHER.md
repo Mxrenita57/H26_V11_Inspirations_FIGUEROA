@@ -1,7 +1,6 @@
 # CONFÉRENCE EN LIGNE AVEC MARTIN BOUCHER - MUSÉE DE L'INGÉNIOSITÉ J.ARMAND-BOMBARDIER
 ## De la réalisation à la mise en exposition des dispositifs multimédia
 
-Le compte-rendu doit avoir un titre. Le propos doit être bien structuré (en paragraphes) avec une introduction qui présente l'intervenant et le thème de sa conférence.
 J'ai eu l'occasion d'assister à une conférence très enrichissante et présentée par Martin Boucher, un technicien multimédia pour le musée d'ingéniosité J.Armand-Bombardier, situé à Valcourt. Durant cette conférence, j'ai essentiellement appris le processus de réalisation, de fonctionnement et de mise en exposition de dispositifs multimédia dans les salle d'exposition de son musée.
 
 plan: presentation de qui il est, son métier, il y travaille depuis 2009
@@ -25,11 +24,8 @@ Il a ensuite détaillé ses responsabilités quotidiennes, qui incluent le souti
 
 La conférence a également abordé les domaines connexes au multimédia, tels que l’informatique, la gestion de projets, la programmation ou encore la production audiovisuelle. Martin Boucher a expliqué que chaque installation nécessite de comprendre les besoins du client, de choisir les bons supports de projection, de réfléchir à l’intégration du son ou à l’interactivité, et de tenir compte de l’éclairage et de l’optique selon les matériaux exposés.
 
-Enfin, il a présenté plusieurs exemples concrets de projets réalisés au musée, notamment une exposition dans le garage mettant en valeur un véhicule Bombardier des années 1940. À travers ces exemples, il a montré comment les choix techniques — comme la disposition des haut‑parleurs ou la qualité de la projection — influencent la perception du visiteur et nécessitent souvent des compromis entre contraintes techniques et budget.
+Enfin, il a présenté plusieurs exemples concrets de projets réalisés au musée, notamment une exposition dans le garage mettant en valeur un véhicule Bombardier des années 1940. À travers ces exemples, il a montré comment les choix techniques tels que la disposition des haut‑parleurs ou la qualité de la projection influencent la perception du visiteur et nécessitent souvent des compromis entre contraintes techniques et budget.
 
 Après avoir répondu à des questions de quelques élèves, il a poursuivi sa présentation en montrant un exposition du musée de l'ingéniosité qui montrait un moteur et des roues de train de métro, car il faut savoir que c'est Bombardier qui avait construit l'ancien métro de Montréal, pour l'Expo 67. Il explique ensuite comment la mélodie qu'on entend jouer dans les haut-parleurs du métro a été créée. Tout d'abord, ce bruit est le même que celui de l'alimentation du moteur qu'on devait couper en plusieurs séquences et donc, on commençait par une fréquence qui était agréable aux oreilles, et cette fréquence va graduellement augmenter. Dans l'exposition, on peut interagir avec des boutons pour essayer de recréer cette fameuse mélodie. Il précise ensuite que le dispositif permettant de recréer la mélodie est assez bas et est présenté comme un jeu pour attirer l'attention des enfants et rendre leur visite plus amusante.
 
 Il continue en disant qu'il est important de faire en sorte que les dispositifs multimédia soient le plus accessible possible, afin que n'importe qui puisse en profiter entièrement. Par exemple, adapter l'hauteur des dispositifs pour que les enfants puissent aussi participer, rendre l'audio d'un dispositif accessible en intégrant plusieurs langues avec lesquelles on peut écouter l'audio.
-
-
-Puis, quelques-unes des grandes idées partagées sont expliquées dans le développement. Soyez spécifique en nommant les informations qui vous ont semblées importantes et en donnant des exemples des éléments qui vous ont inspirés . Enfin, votre conclusion partagera une appréciation de la conférence, appréciation qui sera appuyée d'une justification (le pourquoi) et concernera des aspects précis. Il est important de conserver une attitude ouverte, respectueuse et p
