@@ -66,7 +66,7 @@ L'installation est située dans un local fermé, plongé dans le noir. Le local 
 - Le mur du local
 
 ![lumière spotlight](./media/spotlight_plan_moyen.jpg)
-> Photo prise par Sophia F.
+> Photo prise par Sophia F. <br>
 ![Étagère](./media/etagere_plan_moyen.jpg)
 > Photo prise par Sophia F.  
 
