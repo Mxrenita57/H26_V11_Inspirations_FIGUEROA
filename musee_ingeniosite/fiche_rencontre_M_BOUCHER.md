@@ -15,4 +15,5 @@ visionnement d'une video des années de 2010, show de vente d'appareils, on a be
 exemple de exposition dans le garage du musée, hautparleurs avec projecteurs, on y voit un vehicule fabriquée par bombardier annees 1940, surface de projection principales modestes (il faut souvent faire des compromis technico economiques, depedanement des demandes du client)
 exemple d'une eposition d'un vehicule fait par bombardier, boucher nous explique différentes composantes utilisés, comme leclairage et les hautparleurs, vplume plus fort dun cote, perception que ca vient plus dun coté
 
+
 Puis, quelques-unes des grandes idées partagées sont expliquées dans le développement. Soyez spécifique en nommant les informations qui vous ont semblées importantes et en donnant des exemples des éléments qui vous ont inspirés . Enfin, votre conclusion partagera une appréciation de la conférence, appréciation qui sera appuyée d'une justification (le pourquoi) et concernera des aspects précis. Il est important de conserver une attitude ouverte, respectueuse et p
