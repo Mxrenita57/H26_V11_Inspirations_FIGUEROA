@@ -2,7 +2,7 @@ Introduction :
 
  Quel est l'objectif de votre communication (sujet posé = nommer l'oeuvre (et l'artiste) ou le dispositif présenté + lieu visité)
  Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
- Oeuvre observée: Bêtise humaine
+ Oeuvre observée: Bêtise humaine Joyce Joumaa 2025 aux musée d'art contemporain de Montréal
  
 Développement :
 
