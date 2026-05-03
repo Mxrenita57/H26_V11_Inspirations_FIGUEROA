@@ -15,8 +15,8 @@ Permanente, à l'intérieur
 
 
 ## Oeuvre observée: Théatre d'ombres
-![Vue d'ensemble de l'oeuvre](https://youtube.com/shorts/49Lz77gI20A?feature=share)
-> Vidéo prise par Sophia F.
+![thumbnail](./media/thumbnail.webp)
+> https://youtube.com/shorts/49Lz77gI20A?feature=share
 
 
 ## Artistes
