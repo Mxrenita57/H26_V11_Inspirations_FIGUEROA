@@ -15,7 +15,7 @@ Permanente, à l'intérieur
 
 
 ## Oeuvre observée: Théatre d'ombres
-![thumbnail](./media/thumbnail.webp)
+![thumbnail](./media/ombre_mur_plan_large.jpg)
 > https://youtube.com/shorts/49Lz77gI20A?feature=share
 
 
@@ -28,14 +28,14 @@ UBISOFT
 
 
 ## Description de l'oeuvre 
-Le théatre d'ombres est une installation qui permet d'expérimenter la programmation afin de faire bouger des objets et de changer les couleurs de lumières pour personnaliser les ombres qui seront créées sur le mur. Le language de programmation est très similaire à celui du site <<Scratch>>, qui est un logiciel destiné à apprendre aux jeunes les bases de la programmation d'animations. Il faut essentiellement déplacer des blocs contenant différentes instructions de code et les assembler selon l'ordre voulu. Ensuite, il suffit de cliquer sur le bouton <<Démarrer>> pour que l'animation des objets et des lumières se produise. Cette méthode de glisser-déposer des blocs de code rend la programmation plus visuelle et ludique, ce qui la rend plus accessible pour les enfants. En effet, cette installation est destinée aux enfants de 6 à 12 ans. C'est une excellente façon d'utiliser la programmation pour créer quelque chose d'artistique et de découvrir l'art des ombres sur le mur!
+Le théatre d'ombres est une installation qui permet d'expérimenter la programmation afin de faire bouger des objets et de changer les couleurs de lumières pour personnaliser les ombres qui seront créées sur le mur. Le language de programmation est très similaire à celui du site <<Scratch>>, qui est un logiciel destiné à apprendre aux jeunes les bases de la programmation d'animations. Il faut essentiellement déplacer des blocs contenant différentes instructions de code et les assembler selon l'ordre voulu. Ensuite, il suffit de cliquer sur le bouton <<Démarrer>> pour que l'animation des objets et des lumières se produise. Cette méthode de glisser-déposer des blocs de code rend la programmation plus visuelle et ludique, ce qui la rend plus accessible pour les enfants. En effet, cette installation est destinée aux enfants de 6 à 12 ans. C'est une excellente façon d'utiliser la programmation pour créer quelque chose d'artistique et de découvrir l'art des ombres sur des murs!
 
 
 ## Type d'installation
 Interactive et immersive
 
 
-![thumbnail](./media/)
+![ecran tactile pour programmer les ombres](./media/ecran_tactile_gros_plan.jpg)
 
 
 
@@ -54,7 +54,9 @@ L'installation est située dans un local fermé, plongé dans le noir. Le local 
 - Petite tablette en bois en forme de cercle
 
   
-![Gros plan des composantes](./media)
+![Boîtier](./media/composante_boitier_plan_moyen.jpg)
+> Photo prise par Sophia F.
+![Objets en bois](./media/objet_bois_plan_moyen.jpg)
 > Photo prise par Sophia F.
 
   
@@ -63,7 +65,10 @@ L'installation est située dans un local fermé, plongé dans le noir. Le local 
 - Une étagère en bois
 - Le mur du local
 
-  
+![lumière spotlight](./media/spotlight_plan_moyen.jpg)
+> Photo prise par Sophia F.
+![Étagère](./media/etagere_plan_moyen.jpg)
+> Photo prise par Sophia F.  
 
 
 ## Expérience vécue	
@@ -71,11 +76,11 @@ En entrant dans le local, j'ai tout de suite remarqué l'écran et les animaux e
 
 
 
-![Vue descriptive installation](./media/)
+![Panneau informatif](./media/panneau_info_plan_moyen.jpg)
 > Photo prise par Sophia F.
 
 ## Ce qui m'a plu
-La programmation est simple facile à utiliser, surtout pour les jeunes enfants puisqu'ils sont le public-cible. C'est une installation qui est selon moi très éducative et qui montre aux enfants ce qu'on peut faire avec les ordinateurs et de pouvoir le pratiquer. J'aime aussi le fait qu'on peut déplacer les objets comme on veut sur la plateforme en cercle pour modifier légèrement l'image sur le mur.
+La programmation est simple facile à utiliser, surtout pour les jeunes enfants puisqu'ils sont le public-cible. C'est une installation qui est selon moi très éducative et qui montre aux enfants ce qu'on peut faire avec les ordinateurs et leur donne la chance de pratiquer la programmation. J'aime aussi le fait qu'on peut déplacer les objets comme on veut sur la plateforme en cercle pour modifier légèrement l'image sur le mur.
 
 
 ## Ce qui ne m'a pas plu
