@@ -3,6 +3,7 @@ Introduction :
  Quel est l'objectif de votre communication (sujet posé = nommer l'oeuvre (et l'artiste) ou le dispositif présenté + lieu visité)
  Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
  Oeuvre observée: Bêtise humaine Joyce Joumaa 2025 aux MAC Musée d'art contemporain à Place Ville-Marie, Montréal
+ ma presentation sera divisé en 5 sections, soit une petite description du MAC, une présentation détaillée de mon oeuvre choisie, ensuite je vais parler de l'expérience que j'ai vécu et je vais faire une appréciation critique du tout, et je vais conclure avec des liens avec d'autres oeuvres observées.
  
 Développement :
 
