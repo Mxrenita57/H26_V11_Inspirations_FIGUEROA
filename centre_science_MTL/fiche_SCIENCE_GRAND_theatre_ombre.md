@@ -55,7 +55,7 @@ L'installation est située dans un local fermé, plongé dans le noir. Le local 
 
   
 ![Boîtier](./media/composante_boitier_gros_plan.jpg)
-> Photo prise par Sophia F.
+> Photo prise par Sophia F. <br>
 ![Objets en bois](./media/objet_bois_plan_moyen.jpg)
 > Photo prise par Sophia F.
 
