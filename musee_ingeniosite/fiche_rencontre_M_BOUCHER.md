@@ -12,7 +12,8 @@ Enfin, il a présenté plusieurs exemples concrets de projets réalisés au mus�
 
 Après avoir répondu aux questions de quelques élèves, il a poursuivi sa présentation en montrant un exposition du musée de l'ingéniosité qui montrait un moteur et des roues de train de métro, car il faut savoir que c'est Bombardier qui avait construit l'ancien métro de Montréal, pour l'Expo 67. Il explique ensuite comment la mélodie qu'on entend jouer dans les haut-parleurs du métro a été créée. Tout d'abord, ce bruit est le même que celui de l'alimentation du moteur qu'on devait couper en plusieurs séquences et donc, on commençait par une fréquence qui était agréable aux oreilles, et cette fréquence augmentait graduellement. Dans l'exposition, on peut interagir avec des boutons pour essayer de recréer cette fameuse mélodie. Il précise ensuite que le dispositif permettant de recréer la mélodie est assez bas et est présenté comme un jeu pour attirer l'attention des enfants et rendre leur visite plus amusante.
 
-! moteur_train_exposition_francois.jpg
+![exposition d'un ancien moteur et des roues de train de Montréal](./media/moteur_train_musee_ingeniosite_francois.jpg)
+> Photo prise par François Sylvie
 
 Martin Boucher a finit la présentation en disant qu'il est important de faire en sorte que les dispositifs multimédia soient le plus accessible possible, afin que n'importe qui puisse en profiter entièrement. Par exemple, adapter l'hauteur des dispositifs pour que les enfants puissent aussi participer, rendre l'audio d'un dispositif accessible en intégrant plusieurs langues avec lesquelles on peut écouter l'audio, etc.
 
