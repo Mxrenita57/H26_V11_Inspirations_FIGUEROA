@@ -54,7 +54,7 @@ L'installation est située dans un local fermé, plongé dans le noir. Le local 
 - Petite tablette en bois en forme de cercle
 
   
-![Boîtier](./media/composante_boitier_plan_moyen.jpg)
+![Boîtier](./media/composante_boitier_gros_plan.jpg)
 > Photo prise par Sophia F.
 ![Objets en bois](./media/objet_bois_plan_moyen.jpg)
 > Photo prise par Sophia F.
