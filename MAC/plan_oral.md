@@ -14,6 +14,7 @@ Développement :
  Liens avec d'autres oeuvres, dispositifs et expériences multimédias découverts cette session (ressemblances, différences ou intérêt spécifique)
 
  Donc, mon oeuvre est exposé au musée d'art contemporain de Montréal, situé à Place Ville-Marie. Le MAC a comme mission d'exposer et de partager des oeuvres d'art faits par des artistes québécois mais aussi de partout dans le monde. Le musée se compose de plus de 8 000 oeuvres de l'époque actuelle. Elle offre aussi des activités  culturelles telles que des expositions, des ateliers de création, des conférences ou même des rencontres avec certains artistes ainsi que d'autres événements spéciaux. Le MAC est actuellement en train de préparer l’ouverture de son nouveau musée à la Place des Arts et ne présente donc plus d’expositions dans son espace temporaire à Place Ville Marie.
+ L'oeuvre est placée juste à gauche de l'entrée de l'exposition complète. Lorsqu'on tourne à gauche, on voit d'abord un mur qui cache la majorité de l'oeuvre, il faut passer soit par la gauche, soit par la droite de ce mur pour se diriger vers l'oeuvre. On voit alors un segment de terrain synthétique avec de grandes estrades en alluminium au centre. Au fond et accoté sur le mur se trouve un grand écran où joue la vidéo mettant en scène un match de soccer. La pièce est ouverte et plongée dans le noir: La seule source de lumière présente est celle du film.
  
 Conclusion :
 
